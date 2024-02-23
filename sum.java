@@ -3,6 +3,6 @@ class Sum{
     {
         int a=3;
         int b=4;
-        System.out.println(a+b);
+        System.out.println("The product is "+(a*b));
     }
 }
